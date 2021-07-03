@@ -4,4 +4,6 @@
 
 Although the virus is not deadly enough to cause the decline of an entire population, we are going to imagine the opposite situation and try to reveal which countries would see their population decline faster because of a lower reproduction rate and a virus doing much more damages.
 
-I recommend you to view the notebook at this link : https://nbviewer.jupyter.org/github/lth-elm/covid19-clusters/blob/main/covid19-clustering-scenario.ipynb
+I recommend you to view the notebook at this link : https://nbviewer.jupyter.org/github/lth-elm/covid19-clusters/blob/main/covid19-clustering-attempt.ipynb
+
+*The notebook in that link is in french, [here](covid19-clustering-scenario.ipynb) for the english version until the 404 error in nbviewer get fixed.*
