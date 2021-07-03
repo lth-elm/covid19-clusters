@@ -1,7 +1,7 @@
-# Tentative de cluster
+# Clustering
 
-## Face au Covid 19, y'a-t-il un risque de déclinaison de certaine population ?
+## Facing Covid 19, is there a risk of declination in some part of the world ?
 
-Bien que le virus n'est pas suffisamment mortel pour provoquer le déclin de toute une population, nous allons ici nous imaginer le contraire et chercher à voir quels pays verrait sa population décliner plus vite faute à un taux de reproduction plus faible et un virus faisant plus de dommage.
+Although the virus is not deadly enough to cause the decline of an entire population, we are going to imagine the opposite situation and try to reveal which countries would see their population decline faster because of a lower reproduction rate and a virus doing much more damages.
 
-Je vous conseille de visualiser le notebook au lien suivant : https://nbviewer.jupyter.org/github/lth-elm/covid19-clusters/blob/main/covid19-clustering-attempt.ipynb
+I recommend you to view the notebook at this link : https://nbviewer.jupyter.org/github/lth-elm/covid19-clusters/blob/main/covid19-clustering-attempt.ipynb
